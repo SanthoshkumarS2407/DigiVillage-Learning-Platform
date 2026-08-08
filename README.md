@@ -1,4 +1,4 @@
-# Digital Learning Platform for Rural Schools (Rural Shiksha)
+# Digital Learning Platform for Rural Schools 
 
 A professional, full-stack digital learning platform designed to bridge the educational resource gap in rural schools. Built with React, Vite, Tailwind CSS, and Node.js/Express (with compile-ready Spring Boot + MySQL configurations prepared for academic submission).
 
