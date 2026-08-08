@@ -1,0 +1,171 @@
+{
+  "info": {
+    "name": "Digital Learning Platform for Rural Schools API",
+    "description": "Postman Collection for testing role-based authentication, student dashboards, and course CRUD operations.",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+  },
+  "item": [
+    {
+      "name": "Authentication",
+      "item": [
+        {
+          "name": "User Registration",
+          "request": {
+            "method": "POST",
+            "header": [
+              {
+                "key": "Content-Type",
+                "value": "application/json"
+              }
+            ],
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"name\": \"Ramesh Singh\",\n  \"email\": \"ramesh@rural.edu\",\n  \"password\": \"password123\",\n  \"role\": \"STUDENT\",\n  \"school\": \"Govt Boys High School\",\n  \"class\": \"Grade 10\",\n  \"village\": \"Ramnagar\"\n}"
+            },
+            "url": {
+              "raw": "http://localhost:3000/api/auth/register",
+              "protocol": "http",
+              "host": ["localhost"],
+              "port": "3000",
+              "path": ["api", "auth", "register"]
+            }
+          }
+        },
+        {
+          "name": "User Login",
+          "request": {
+            "method": "POST",
+            "header": [
+              {
+                "key": "Content-Type",
+                "value": "application/json"
+              }
+            ],
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"email\": \"amit@rural.edu\",\n  \"password\": \"password123\"\n}"
+            },
+            "url": {
+              "raw": "http://localhost:3000/api/auth/login",
+              "protocol": "http",
+              "host": ["localhost"],
+              "port": "3000",
+              "path": ["api", "auth", "login"]
+            }
+          }
+        },
+        {
+          "name": "Get Authenticated User Profiles (Me)",
+          "request": {
+            "method": "GET",
+            "header": [
+              {
+                "key": "Authorization",
+                "value": "Bearer token-usr-s1"
+              }
+            ],
+            "url": {
+              "raw": "http://localhost:3000/api/auth/me",
+              "protocol": "http",
+              "host": ["localhost"],
+              "port": "3000",
+              "path": ["api", "auth", "me"]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "Courses & Syllabus",
+      "item": [
+        {
+          "name": "Fetch All Courses",
+          "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+              "raw": "http://localhost:3000/api/courses",
+              "protocol": "http",
+              "host": ["localhost"],
+              "port": "3000",
+              "path": ["api", "courses"]
+            }
+          }
+        },
+        {
+          "name": "Create Course",
+          "request": {
+            "method": "POST",
+            "header": [
+              {
+                "key": "Authorization",
+                "value": "Bearer token-usr-t1"
+              },
+              {
+                "key": "Content-Type",
+                "value": "application/json"
+              }
+            ],
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"title\": \"Advanced Coordinate Geometry\",\n  \"description\": \"In-depth coordinate systems for high school pupils.\",\n  \"category\": \"Mathematics\",\n  \"thumbnail\": \"\"\n}"
+            },
+            "url": {
+              "raw": "http://localhost:3000/api/courses",
+              "protocol": "http",
+              "host": ["localhost"],
+              "port": "3000",
+              "path": ["api", "courses"]
+            }
+          }
+        },
+        {
+          "name": "Fetch Course Lessons",
+          "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+              "raw": "http://localhost:3000/api/courses/crs-math/lessons",
+              "protocol": "http",
+              "host": ["localhost"],
+              "port": "3000",
+              "path": ["api", "courses", "crs-math", "lessons"]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "Interactive Quiz",
+      "item": [
+        {
+          "name": "Submit MCQ Answers",
+          "request": {
+            "method": "POST",
+            "header": [
+              {
+                "key": "Authorization",
+                "value": "Bearer token-usr-s1"
+              },
+              {
+                "key": "Content-Type",
+                "value": "application/json"
+              }
+            ],
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"quizId\": \"q-math\",\n  \"answers\": {\n    \"q-m1\": \"B\",\n    \"q-m2\": \"C\"\n  }\n}"
+            },
+            "url": {
+              "raw": "http://localhost:3000/api/quizzes/submit",
+              "protocol": "http",
+              "host": ["localhost"],
+              "port": "3000",
+              "path": ["api", "quizzes", "submit"]
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

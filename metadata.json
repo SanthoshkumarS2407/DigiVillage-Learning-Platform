@@ -1,0 +1,6 @@
+{
+  "name": "Digital Learning Platform for Rural Schools",
+  "description": "A professional full-stack digital learning platform offering course registration, student/teacher dashboards, quizzes, video lectures, and notes downloads for rural schools.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

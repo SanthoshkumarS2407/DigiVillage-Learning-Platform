@@ -1,0 +1,1245 @@
+{
+  "users": [
+    {
+      "id": "usr-admin",
+      "name": "Dr.Arjun Prakash",
+      "email": "arjun.prakash@rural.edu",
+      "password": "password123",
+      "role": "ADMIN"
+    },
+    {
+      "id": "usr-admin2",
+      "name": "Mr.Karthick Raman",
+      "email": "karthick.raman@rural.edu",
+      "password": "password123",
+      "role": "ADMIN"
+    },
+    {
+      "id": "usr-admin3",
+      "name": "Ms.Priya Narayanan",
+      "email": "priya.narayanan@rural.edu",
+      "password": "password123",
+      "role": "ADMIN"
+    },
+    {
+      "id": "usr-t1",
+      "name": "Ms.Ananya Iyer",
+      "email": "ananya@rural.edu",
+      "password": "password123",
+      "role": "TEACHER"
+    },
+    {
+      "id": "usr-t2",
+      "name": "Mr.Vikram",
+      "email": "vikram@rural.edu",
+      "password": "password123",
+      "role": "TEACHER"
+    },
+    {
+      "id": "usr-t3",
+      "name": "Dr.Meera",
+      "email": "meera@rural.edu",
+      "password": "password123",
+      "role": "TEACHER"
+    },
+    {
+      "id": "usr-t4",
+      "name": "Mr.Ragavan",
+      "email": "ragavan@rural.edu",
+      "password": "password123",
+      "role": "TEACHER"
+    },
+    {
+      "id": "usr-t5",
+      "name": "Mr.Adtiya Menon",
+      "email": "adtiya@rural.edu",
+      "password": "password123",
+      "role": "TEACHER"
+    },
+    {
+      "id": "usr-p1",
+      "name": "Dr.Nakul",
+      "email": "nakul@rural.edu",
+      "password": "password123",
+      "role": "TEACHER"
+    },
+    {
+      "id": "usr-p2",
+      "name": "Dr.palani vel",
+      "email": "palanivel@rural.edu",
+      "password": "password123",
+      "role": "TEACHER"
+    },
+    {
+      "id": "usr-p3",
+      "name": "Mr.Keshavan",
+      "email": "keshavan@rural.edu",
+      "password": "password123",
+      "role": "TEACHER"
+    },
+    {
+      "id": "usr-p4",
+      "name": "Dr.Gomathi",
+      "email": "gomathi@rural.edu",
+      "password": "password123",
+      "role": "TEACHER"
+    },
+    {
+      "id": "usr-s1",
+      "name": "Arjun",
+      "email": "arjun@rural.edu",
+      "password": "password123",
+      "role": "STUDENT"
+    },
+    {
+      "id": "usr-s2",
+      "name": "Kavin",
+      "email": "kavin@rural.edu",
+      "password": "password123",
+      "role": "STUDENT"
+    },
+    {
+      "id": "usr-s3",
+      "name": "Raj",
+      "email": "raj@rural.edu",
+      "password": "password123",
+      "role": "STUDENT"
+    },
+    {
+      "id": "usr-s4",
+      "name": "Venkatesh",
+      "email": "venkatesh@rural.edu",
+      "password": "password123",
+      "role": "STUDENT"
+    },
+    {
+      "id": "usr-s5",
+      "name": "Harini",
+      "email": "harini@rural.edu",
+      "password": "password123",
+      "role": "STUDENT"
+    },
+    {
+      "id": "usr-s6",
+      "name": "Muthu",
+      "email": "muthu@rural.edu",
+      "password": "password123",
+      "role": "STUDENT"
+    },
+    {
+      "id": "usr-s7",
+      "name": "Vel",
+      "email": "vel@rural.edu",
+      "password": "password123",
+      "role": "STUDENT"
+    },
+    {
+      "id": "usr-s8",
+      "name": "Kavitha Subbu",
+      "email": "kavitha@rural.edu",
+      "password": "password123",
+      "role": "STUDENT"
+    },
+    {
+      "id": "usr-s9",
+      "name": "Karthik Raja",
+      "email": "karthik@rural.edu",
+      "password": "password123",
+      "role": "STUDENT"
+    },
+    {
+      "id": "usr-s10",
+      "name": "Deepa Lakshmi",
+      "email": "deepa@rural.edu",
+      "password": "password123",
+      "role": "STUDENT"
+    },
+    {
+      "id": "usr-s11",
+      "name": "Saravanan M",
+      "email": "saravanan@rural.edu",
+      "password": "password123",
+      "role": "STUDENT"
+    },
+    {
+      "id": "usr-s12",
+      "name": "Malathi K",
+      "email": "malathi@rural.edu",
+      "password": "password123",
+      "role": "STUDENT"
+    },
+    {
+      "id": "usr-s13",
+      "name": "Vignesh Kumar",
+      "email": "vignesh@rural.edu",
+      "password": "password123",
+      "role": "STUDENT"
+    },
+    {
+      "id": "usr-s14",
+      "name": "Priya Dharshini",
+      "email": "priya@rural.edu",
+      "password": "password123",
+      "role": "STUDENT"
+    },
+    {
+      "id": "usr-s15",
+      "name": "Manikandan R",
+      "email": "manikandan@rural.edu",
+      "password": "password123",
+      "role": "STUDENT"
+    },
+    {
+      "id": "usr-s16",
+      "name": "Anitha S",
+      "email": "anitha@rural.edu",
+      "password": "password123",
+      "role": "STUDENT"
+    },
+    {
+      "id": "usr-s17",
+      "name": "Selvam V",
+      "email": "selvam@rural.edu",
+      "password": "password123",
+      "role": "STUDENT"
+    },
+    {
+      "id": "usr-s18",
+      "name": "Lakshmi Prabha",
+      "email": "lakshmi@rural.edu",
+      "password": "password123",
+      "role": "STUDENT"
+    },
+    {
+      "id": "usr-s19",
+      "name": "Surya Prakash",
+      "email": "surya@rural.edu",
+      "password": "password123",
+      "role": "STUDENT"
+    },
+    {
+      "id": "usr-s20",
+      "name": "Divya Bharathi",
+      "email": "divya@rural.edu",
+      "password": "password123",
+      "role": "STUDENT"
+    },
+    {
+      "id": "usr-s21",
+      "name": "Ramesh Babu",
+      "email": "ramesh@rural.edu",
+      "password": "password123",
+      "role": "STUDENT"
+    },
+    {
+      "id": "usr-s22",
+      "name": "Meenakshi Sundaram",
+      "email": "meenakshi@rural.edu",
+      "password": "password123",
+      "role": "STUDENT"
+    },
+    {
+      "id": "usr-s23",
+      "name": "Dinesh K",
+      "email": "dinesh@rural.edu",
+      "password": "password123",
+      "role": "STUDENT"
+    },
+    {
+      "id": "usr-s24",
+      "name": "Sowmya N",
+      "email": "sowmya@rural.edu",
+      "password": "password123",
+      "role": "STUDENT"
+    },
+    {
+      "id": "usr-s25",
+      "name": "Balamurugan P",
+      "email": "balamurugan@rural.edu",
+      "password": "password123",
+      "role": "STUDENT"
+    },
+    {
+      "id": "usr-s26",
+      "name": "Sandhya R",
+      "email": "sandhya@rural.edu",
+      "password": "password123",
+      "role": "STUDENT"
+    },
+    {
+      "id": "usr-s27",
+      "name": "Gopi Krishna",
+      "email": "gopi@rural.edu",
+      "password": "password123",
+      "role": "STUDENT"
+    },
+    {
+      "id": "usr-s28",
+      "name": "Pavithra S",
+      "email": "pavithra@rural.edu",
+      "password": "password123",
+      "role": "STUDENT"
+    },
+    {
+      "id": "usr-s29",
+      "name": "Praveen Raj",
+      "email": "praveen@rural.edu",
+      "password": "password123",
+      "role": "STUDENT"
+    },
+    {
+      "id": "usr-s30",
+      "name": "Janani V",
+      "email": "janani@rural.edu",
+      "password": "password123",
+      "role": "STUDENT"
+    },
+    {
+      "id": "usr-1786198083070",
+      "name": "Santhoshkumar",
+      "email": "santhoshkumar242007@gmail.com",
+      "password": "password123",
+      "role": "STUDENT"
+    }
+  ],
+  "students": [
+    {
+      "studentId": "std-1",
+      "userId": "usr-s1",
+      "school": "Govt Boys High School",
+      "class": "Grade 10",
+      "village": "Ramnagar"
+    },
+    {
+      "studentId": "std-2",
+      "userId": "usr-s2",
+      "school": "Govt Boys High School",
+      "class": "Grade 10",
+      "village": "Ramnagar"
+    },
+    {
+      "studentId": "std-3",
+      "userId": "usr-s3",
+      "school": "Govt Boys High School",
+      "class": "Grade 12",
+      "village": "Ramnagar"
+    },
+    {
+      "studentId": "std-4",
+      "userId": "usr-s4",
+      "school": "Govt Boys High School",
+      "class": "Grade 12",
+      "village": "Melur"
+    },
+    {
+      "studentId": "std-5",
+      "userId": "usr-s5",
+      "school": "Govt Girls High School",
+      "class": "Grade 10",
+      "village": "Melur"
+    },
+    {
+      "studentId": "std-6",
+      "userId": "usr-s6",
+      "school": "Govt High School",
+      "class": "Grade 10",
+      "village": "Melur"
+    },
+    {
+      "studentId": "std-7",
+      "userId": "usr-s7",
+      "school": "Govt High School",
+      "class": "Grade 12",
+      "village": "Shyamgarh"
+    },
+    {
+      "studentId": "std-8",
+      "userId": "usr-s8",
+      "school": "Govt Girls Higher Sec School",
+      "class": "Grade 11",
+      "village": "Ramnagar"
+    },
+    {
+      "studentId": "std-9",
+      "userId": "usr-s9",
+      "school": "Govt Boys Higher Sec School",
+      "class": "Grade 10",
+      "village": "Kaveripatnam"
+    },
+    {
+      "studentId": "std-10",
+      "userId": "usr-s10",
+      "school": "Govt High School",
+      "class": "Grade 12",
+      "village": "Papanasam"
+    },
+    {
+      "studentId": "std-11",
+      "userId": "usr-s11",
+      "school": "Govt Model School",
+      "class": "Grade 10",
+      "village": "Ramnagar"
+    },
+    {
+      "studentId": "std-12",
+      "userId": "usr-s12",
+      "school": "Govt Girls High School",
+      "class": "Grade 11",
+      "village": "Melur"
+    },
+    {
+      "studentId": "std-13",
+      "userId": "usr-s13",
+      "school": "Govt Boys High School",
+      "class": "Grade 12",
+      "village": "Shyamgarh"
+    },
+    {
+      "studentId": "std-14",
+      "userId": "usr-s14",
+      "school": "Govt Higher Sec School",
+      "class": "Grade 10",
+      "village": "Kaveripatnam"
+    },
+    {
+      "studentId": "std-15",
+      "userId": "usr-s15",
+      "school": "Govt Tribal Residential School",
+      "class": "Grade 11",
+      "village": "Papanasam"
+    },
+    {
+      "studentId": "std-16",
+      "userId": "usr-s16",
+      "school": "Govt Girls Higher Sec School",
+      "class": "Grade 12",
+      "village": "Ramnagar"
+    },
+    {
+      "studentId": "std-17",
+      "userId": "usr-s17",
+      "school": "Govt High School",
+      "class": "Grade 10",
+      "village": "Melur"
+    },
+    {
+      "studentId": "std-18",
+      "userId": "usr-s18",
+      "school": "Govt Model School",
+      "class": "Grade 11",
+      "village": "Shyamgarh"
+    },
+    {
+      "studentId": "std-19",
+      "userId": "usr-s19",
+      "school": "Govt Boys Higher Sec School",
+      "class": "Grade 10",
+      "village": "Kaveripatnam"
+    },
+    {
+      "studentId": "std-20",
+      "userId": "usr-s20",
+      "school": "Govt Girls High School",
+      "class": "Grade 12",
+      "village": "Papanasam"
+    },
+    {
+      "studentId": "std-21",
+      "userId": "usr-s21",
+      "school": "Govt High School",
+      "class": "Grade 10",
+      "village": "Ramnagar"
+    },
+    {
+      "studentId": "std-22",
+      "userId": "usr-s22",
+      "school": "Govt Girls Higher Sec School",
+      "class": "Grade 11",
+      "village": "Melur"
+    },
+    {
+      "studentId": "std-23",
+      "userId": "usr-s23",
+      "school": "Govt Model School",
+      "class": "Grade 12",
+      "village": "Shyamgarh"
+    },
+    {
+      "studentId": "std-24",
+      "userId": "usr-s24",
+      "school": "Govt High School",
+      "class": "Grade 10",
+      "village": "Kaveripatnam"
+    },
+    {
+      "studentId": "std-25",
+      "userId": "usr-s25",
+      "school": "Govt Boys High School",
+      "class": "Grade 11",
+      "village": "Papanasam"
+    },
+    {
+      "studentId": "std-26",
+      "userId": "usr-s26",
+      "school": "Govt Girls High School",
+      "class": "Grade 12",
+      "village": "Ramnagar"
+    },
+    {
+      "studentId": "std-27",
+      "userId": "usr-s27",
+      "school": "Govt Model School",
+      "class": "Grade 10",
+      "village": "Melur"
+    },
+    {
+      "studentId": "std-28",
+      "userId": "usr-s28",
+      "school": "Govt Higher Sec School",
+      "class": "Grade 11",
+      "village": "Shyamgarh"
+    },
+    {
+      "studentId": "std-29",
+      "userId": "usr-s29",
+      "school": "Govt Boys High School",
+      "class": "Grade 12",
+      "village": "Kaveripatnam"
+    },
+    {
+      "studentId": "std-30",
+      "userId": "usr-s30",
+      "school": "Govt Girls High School",
+      "class": "Grade 10",
+      "village": "Papanasam"
+    },
+    {
+      "studentId": "std-1786198083070",
+      "userId": "usr-1786198083070",
+      "school": "Govt High school",
+      "class": "Grade 10",
+      "village": "Mulanur"
+    }
+  ],
+  "teachers": [
+    {
+      "teacherId": "tch-1",
+      "userId": "usr-t1",
+      "qualification": "M.A. in English Literature, B.Ed",
+      "experience": "10 Years"
+    },
+    {
+      "teacherId": "tch-2",
+      "userId": "usr-t2",
+      "qualification": "M.A. in History & Civics, B.Ed",
+      "experience": "7 Years"
+    },
+    {
+      "teacherId": "tch-3",
+      "userId": "usr-t3",
+      "qualification": "Ph.D. in Physics, M.Ed",
+      "experience": "15 Years"
+    },
+    {
+      "teacherId": "tch-4",
+      "userId": "usr-t4",
+      "qualification": "M.Tech in Computer Science",
+      "experience": "9 Years"
+    },
+    {
+      "teacherId": "tch-5",
+      "userId": "usr-t5",
+      "qualification": "M.A. in English Communication",
+      "experience": "6 Years"
+    },
+    {
+      "teacherId": "tch-p1",
+      "userId": "usr-p1",
+      "qualification": "Professor of Mathematics, Ph.D. from IIT",
+      "experience": "20 Years"
+    },
+    {
+      "teacherId": "tch-p2",
+      "userId": "usr-p2",
+      "qualification": "Professor of Tamil Literature, Ph.D.",
+      "experience": "18 Years"
+    },
+    {
+      "teacherId": "tch-p3",
+      "userId": "usr-p3",
+      "qualification": "Professor of Software Engineering",
+      "experience": "14 Years"
+    },
+    {
+      "teacherId": "tch-p4",
+      "userId": "usr-p4",
+      "qualification": "Professor of Machine Learning, Ph.D.",
+      "experience": "16 Years"
+    }
+  ],
+  "courses": [
+    {
+      "courseId": "crs-math",
+      "teacherId": "tch-p1",
+      "teacherName": "Dr.Nakul",
+      "title": "Foundational Algebra & Geometry",
+      "description": "An easy-to-understand foundational math course covering coordinate geometry, algebraic expressions, and linear equations with visual representations.",
+      "category": "Mathematics",
+      "thumbnail": "https://images.unsplash.com/photo-1509228468518-180dd4864904?w=600&auto=format&fit=crop&q=60"
+    },
+    {
+      "courseId": "crs-sci",
+      "teacherId": "tch-3",
+      "teacherName": "Dr.Meera",
+      "title": "Introduction to Physics: Light & Heat",
+      "description": "Explore the basics of optics, reflection, refraction, lenses, and thermal properties with simple rural experiments and household setups.",
+      "category": "Science",
+      "thumbnail": "https://images.unsplash.com/photo-1507668077129-56e32842fceb?w=600&auto=format&fit=crop&q=60"
+    },
+    {
+      "courseId": "crs-eng",
+      "teacherId": "tch-1",
+      "teacherName": "Ms.Ananya Iyer",
+      "title": "Spoken English & Functional Grammar",
+      "description": "Master active conversation, tense conjugations, everyday vocabulary, and paragraph writing. Tailored for rural students to confidently speak and write in English.",
+      "category": "English",
+      "thumbnail": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=600&auto=format&fit=crop&q=60"
+    },
+    {
+      "courseId": "crs-paid-react",
+      "teacherId": "tch-p3",
+      "teacherName": "Mr.Keshavan",
+      "title": "Full-Stack Web Development: React & Express (Premium)",
+      "description": "Master modern full-stack web development! Learn React components, hooks, State Management, and Express API routing with beautiful real-world projects.",
+      "category": "Coding",
+      "thumbnail": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=600&auto=format&fit=crop&q=60",
+      "price": 499,
+      "isPaid": true
+    },
+    {
+      "courseId": "crs-paid-python",
+      "teacherId": "tch-p4",
+      "teacherName": "Dr.Gomathi",
+      "title": "Artificial Intelligence & Python Foundations (Premium)",
+      "description": "Step into the future of tech! Learn Python scripting, data visualization, basic machine learning, and build your own neural network from scratch.",
+      "category": "Coding",
+      "thumbnail": "https://images.unsplash.com/photo-1515879218367-8466d910aaa4?w=600&auto=format&fit=crop&q=60",
+      "price": 799,
+      "isPaid": true
+    },
+    {
+      "courseId": "crs-paid-dsa",
+      "teacherId": "tch-4",
+      "teacherName": "Mr.Ragavan",
+      "title": "Data Structures & Algorithms in Java (Premium)",
+      "description": "Ace coding interviews and build rock-solid backend systems! Learn arrays, linked lists, trees, graphs, dynamic programming, and search algorithms step-by-step.",
+      "category": "Coding",
+      "thumbnail": "https://images.unsplash.com/photo-1627399270231-7d36245355a9?w=600&auto=format&fit=crop&q=60",
+      "price": 599,
+      "isPaid": true
+    },
+    {
+      "courseId": "crs-paid-ielts",
+      "teacherId": "tch-5",
+      "teacherName": "Mr.Adtiya Menon",
+      "title": "Global English Speaking & Interview Skills (Premium)",
+      "description": "Transform your professional career. Master spoken English fluency, corporate vocabulary, presentation delivery, and interview skills with real mock sessions.",
+      "category": "English",
+      "thumbnail": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=600&auto=format&fit=crop&q=60",
+      "price": 349,
+      "isPaid": true
+    },
+    {
+      "courseId": "crs-zoo",
+      "teacherId": "tch-3",
+      "teacherName": "Dr.Meera",
+      "title": "Zoology: Animal Diversity & Human Physiology",
+      "description": "Comprehensive Zoology covering animal taxonomy, human reproductive biology, cell organelles, genetics, organ systems, and evolutionary development.",
+      "category": "Zoology",
+      "thumbnail": "https://images.unsplash.com/photo-1535083783855-76ae62b2914e?w=600&auto=format&fit=crop&q=60"
+    },
+    {
+      "courseId": "crs-bio",
+      "teacherId": "tch-3",
+      "teacherName": "Dr.Meera",
+      "title": "Biology: Plant Biology & Molecular Ecosystems",
+      "description": "Complete Biology covering plant reproduction, cellular respiration, classical Mendelian genetics, biotechnology principles, and environmental ecology.",
+      "category": "Biology",
+      "thumbnail": "https://images.unsplash.com/photo-1463936575829-25148e1db1b8?w=600&auto=format&fit=crop&q=60"
+    }
+  ],
+  "lessons": [
+    {
+      "lessonId": "les-math1",
+      "courseId": "crs-math",
+      "title": "Chapter 1: Understanding Coordinates",
+      "videoUrl": "https://youtu.be/MHeirBPOI6w?si=8kUQVDVNXQ5AEqNw",
+      "pdfUrl": "#"
+    },
+    {
+      "lessonId": "les-math2",
+      "courseId": "crs-math",
+      "title": "Chapter 2: Linear Equations Visualized",
+      "videoUrl": "https://youtu.be/MHeirBPOI6w?si=8kUQVDVNXQ5AEqNw",
+      "pdfUrl": "#"
+    },
+    {
+      "lessonId": "les-sci1",
+      "courseId": "crs-sci",
+      "title": "Chapter 1: Reflection of Light & Mirror Equations",
+      "videoUrl": "https://youtu.be/Xf_VZ8GxU1Y?si=m29rfAnKtdir0mWr",
+      "pdfUrl": "#"
+    },
+    {
+      "lessonId": "les-sci2",
+      "courseId": "crs-sci",
+      "title": "Chapter 2: Lenses & Human Eye Vision",
+      "videoUrl": "https://youtu.be/_5AZwrTkQNA?si=khPX7yt0J8MqLo8s",
+      "pdfUrl": "#"
+    },
+    {
+      "lessonId": "les-eng1",
+      "courseId": "crs-eng",
+      "title": "Chapter 1: Functional Greetings & Spoken Expressions",
+      "videoUrl": "https://youtu.be/aOsILFNgtIo?si=eLQmO5HtedVx485j",
+      "pdfUrl": "#"
+    },
+    {
+      "lessonId": "les-eng2",
+      "courseId": "crs-eng",
+      "title": "Chapter 2: Tenses & Sentence Structuring",
+      "videoUrl": "https://youtu.be/aOsILFNgtIo?si=eLQmO5HtedVx485j",
+      "pdfUrl": "#"
+    },
+    {
+      "lessonId": "les-paid-r1",
+      "courseId": "crs-paid-react",
+      "title": "Chapter 1: Getting Started with React & Components",
+      "videoUrl": "https://www.youtube.com/watch?v=Ke90Tje7VS0",
+      "pdfUrl": "#"
+    },
+    {
+      "lessonId": "les-paid-r2",
+      "courseId": "crs-paid-react",
+      "title": "Chapter 2: Building APIs with Node.js & Express",
+      "videoUrl": "https://www.youtube.com/watch?v=7S_zhvB-YBA",
+      "pdfUrl": "#"
+    },
+    {
+      "lessonId": "les-paid-p1",
+      "courseId": "crs-paid-python",
+      "title": "Chapter 1: Python Essentials & Data Structures",
+      "videoUrl": "https://www.youtube.com/watch?v=_uQrJ0TkZlc",
+      "pdfUrl": "#"
+    },
+    {
+      "lessonId": "les-paid-p2",
+      "courseId": "crs-paid-python",
+      "title": "Chapter 2: Machine Learning & Neural Network Basics",
+      "videoUrl": "https://www.youtube.com/watch?v=aircAruvnKk",
+      "pdfUrl": "#"
+    },
+    {
+      "lessonId": "les-paid-dsa1",
+      "courseId": "crs-paid-dsa",
+      "title": "Chapter 1: Time Complexity & Big O Notation",
+      "videoUrl": "https://www.youtube.com/watch?v=V6mKVRU1evU",
+      "pdfUrl": "#"
+    },
+    {
+      "lessonId": "les-paid-dsa2",
+      "courseId": "crs-paid-dsa",
+      "title": "Chapter 2: Arrays & Linked Lists Deep Dive",
+      "videoUrl": "https://www.youtube.com/watch?v=58YClmWipSc",
+      "pdfUrl": "#"
+    },
+    {
+      "lessonId": "les-paid-ielts1",
+      "courseId": "crs-paid-ielts",
+      "title": "Chapter 1: Crack the Spoken English & Self Introduction",
+      "videoUrl": "https://www.youtube.com/watch?v=bV8Mv-f-91Y",
+      "pdfUrl": "#"
+    },
+    {
+      "lessonId": "les-paid-ielts2",
+      "courseId": "crs-paid-ielts",
+      "title": "Chapter 2: Essential Corporate Pitching & Resumes",
+      "videoUrl": "https://www.youtube.com/watch?v=gA_Fp_O4uFk",
+      "pdfUrl": "#"
+    },
+    {
+      "lessonId": "les-zoo1",
+      "courseId": "crs-zoo",
+      "title": "Chapter 1: Human Reproductive Biology & Gametogenesis",
+      "subject": "Zoology",
+      "topic": "Human Reproduction & Gametogenesis",
+      "videoUrl": "https://youtu.be/_5AZwrTkQNA?si=khPX7yt0J8MqLo8s",
+      "pdfUrl": "#"
+    },
+    {
+      "lessonId": "les-zoo2",
+      "courseId": "crs-zoo",
+      "title": "Chapter 2: Animal Tissues & Cell Biology",
+      "subject": "Zoology",
+      "topic": "Animal Cell Structure & Tissues",
+      "videoUrl": "https://youtu.be/Xf_VZ8GxU1Y?si=m29rfAnKtdir0mWr",
+      "pdfUrl": "#"
+    },
+    {
+      "lessonId": "les-bio1",
+      "courseId": "crs-bio",
+      "title": "Chapter 1: Plant Reproduction & Microsporogenesis",
+      "subject": "Biology",
+      "topic": "Plant Reproduction & Double Fertilization",
+      "videoUrl": "https://www.youtube.com/watch?v=2pG9Gat8sF4",
+      "pdfUrl": "#"
+    },
+    {
+      "lessonId": "les-bio2",
+      "courseId": "crs-bio",
+      "title": "Chapter 2: Classical Mendelian Genetics & Inheritance",
+      "subject": "Biology",
+      "topic": "Mendelian Genetics & Gene Linkage",
+      "videoUrl": "https://www.youtube.com/watch?v=eYfK14MhKGo",
+      "pdfUrl": "#"
+    }
+  ],
+  "quizzes": [
+    {
+      "quizId": "q-math",
+      "courseId": "crs-math",
+      "title": "Algebra & Geometry Quick Check"
+    },
+    {
+      "quizId": "q-sci",
+      "courseId": "crs-sci",
+      "title": "Optics & Physics Basics Quiz"
+    },
+    {
+      "quizId": "q-eng",
+      "courseId": "crs-eng",
+      "title": "Functional English Grammar Evaluation"
+    },
+    {
+      "quizId": "q-paid-react",
+      "courseId": "crs-paid-react",
+      "title": "React & Express Full-Stack Mastery Quiz"
+    },
+    {
+      "quizId": "q-paid-python",
+      "courseId": "crs-paid-python",
+      "title": "Python & AI Fundamentals Evaluation"
+    },
+    {
+      "quizId": "q-paid-dsa",
+      "courseId": "crs-paid-dsa",
+      "title": "Advanced DSA & Logic Building Exam"
+    },
+    {
+      "quizId": "q-paid-ielts",
+      "courseId": "crs-paid-ielts",
+      "title": "Professional English Speaking Challenge"
+    }
+  ],
+  "questions": [
+    {
+      "questionId": "q-m1",
+      "quizId": "q-math",
+      "question": "What is the value of x if 2x + 7 = 15?",
+      "optionA": "x = 3",
+      "optionB": "x = 4",
+      "optionC": "x = 8",
+      "optionD": "x = 5",
+      "answer": "B"
+    },
+    {
+      "questionId": "q-m2",
+      "quizId": "q-math",
+      "question": "What point coordinates represent the origin?",
+      "optionA": "(1, 1)",
+      "optionB": "(0, 1)",
+      "optionC": "(0, 0)",
+      "optionD": "(-1, -1)",
+      "answer": "C"
+    },
+    {
+      "questionId": "q-s1",
+      "quizId": "q-sci",
+      "question": "Which of the following mirrors is used in vehicle headlights?",
+      "optionA": "Convex mirror",
+      "optionB": "Concave mirror",
+      "optionC": "Plane mirror",
+      "optionD": "Bifocal mirror",
+      "answer": "B"
+    },
+    {
+      "questionId": "q-s2",
+      "quizId": "q-sci",
+      "question": "Light travels in which type of path?",
+      "optionA": "Curved path",
+      "optionB": "Circular path",
+      "optionC": "Straight-line path",
+      "optionD": "Zig-zag path",
+      "answer": "C"
+    },
+    {
+      "questionId": "q-e1",
+      "quizId": "q-eng",
+      "question": "Which verb form correctly completes: 'She ____ to school every day'?",
+      "optionA": "go",
+      "optionB": "goes",
+      "optionC": "going",
+      "optionD": "gone",
+      "answer": "B"
+    },
+    {
+      "questionId": "q-e2",
+      "quizId": "q-eng",
+      "question": "What is the antonym of the word 'Ancient'?",
+      "optionA": "Old",
+      "optionB": "Modern",
+      "optionC": "Historic",
+      "optionD": "Prehistoric",
+      "answer": "B"
+    },
+    {
+      "questionId": "q-pr1",
+      "quizId": "q-paid-react",
+      "question": "Which React hook is used to handle side-effects like fetching data?",
+      "optionA": "useState",
+      "optionB": "useContext",
+      "optionC": "useEffect",
+      "optionD": "useReducer",
+      "answer": "C"
+    },
+    {
+      "questionId": "q-pr2",
+      "quizId": "q-paid-react",
+      "question": "What is the correct way to mount middleware in an Express application?",
+      "optionA": "app.use(middleware)",
+      "optionB": "app.get(middleware)",
+      "optionC": "app.post(middleware)",
+      "optionD": "app.mount(middleware)",
+      "answer": "A"
+    },
+    {
+      "questionId": "q-pp1",
+      "quizId": "q-paid-python",
+      "question": "Which Python library is primarily used for high-performance data manipulation and analysis?",
+      "optionA": "Flask",
+      "optionB": "Pandas",
+      "optionC": "Pygame",
+      "optionD": "Django",
+      "answer": "B"
+    },
+    {
+      "questionId": "q-pp2",
+      "quizId": "q-paid-python",
+      "question": "What is the primary function of an activation function in a neural network?",
+      "optionA": "To store backup weights",
+      "optionB": "To introduce non-linearity into the network model",
+      "optionC": "To format raw textual input",
+      "optionD": "To speed up data query execution",
+      "answer": "B"
+    },
+    {
+      "questionId": "q-dsa1",
+      "quizId": "q-paid-dsa",
+      "question": "What is the worst-case time complexity of searching in a standard Binary Search Tree (BST)?",
+      "optionA": "O(1)",
+      "optionB": "O(log n)",
+      "optionC": "O(n)",
+      "optionD": "O(n log n)",
+      "answer": "C"
+    },
+    {
+      "questionId": "q-dsa2",
+      "quizId": "q-paid-dsa",
+      "question": "Which data structure follows the Last-In-First-Out (LIFO) access principle?",
+      "optionA": "Queue",
+      "optionB": "Stack",
+      "optionC": "Hash Map",
+      "optionD": "Max Heap",
+      "answer": "B"
+    },
+    {
+      "questionId": "q-ielts1",
+      "quizId": "q-paid-ielts",
+      "question": "Which of the following is considered a primary best practice when starting a professional self-introduction?",
+      "optionA": "Reciting your entire high school report card grades",
+      "optionB": "Speaking fast without breathing to show excitement",
+      "optionC": "Stating your name, current role/background, and a concise career highlight",
+      "optionD": "Refusing to make eye contact",
+      "answer": "C"
+    },
+    {
+      "questionId": "q-ielts2",
+      "quizId": "q-paid-ielts",
+      "question": "What does the term \"STAR method\" stand for in professional behavioral interviews?",
+      "optionA": "Situation, Task, Action, Result",
+      "optionB": "Speak, Talk, Answer, Respond",
+      "optionC": "Simple, Thorough, Accurate, Realistic",
+      "optionD": "Story, Timeline, Achievement, Review",
+      "answer": "A"
+    }
+  ],
+  "results": [
+    {
+      "resultId": "res-1",
+      "studentId": "std-1",
+      "studentName": "Arjun",
+      "quizId": "q-math",
+      "quizTitle": "Algebra & Geometry Quick Check",
+      "score": 2,
+      "totalQuestions": 2,
+      "percentage": 100,
+      "pass": true,
+      "date": "2026-07-02T10:00:00.000Z"
+    }
+  ],
+  "announcements": [
+    {
+      "announcementId": "ann-1",
+      "title": "Free Digital Literacy Camp next week",
+      "description": "We are organizing a 3-day digital literacy workshop from July 10th to 12th. Learn basic computer skills, Google Search, and internet safety in our Ramnagar school laboratory.",
+      "date": "2026-07-04T07:15:00.000Z"
+    },
+    {
+      "announcementId": "ann-2",
+      "title": "Weekly Science Quiz starts this Saturday",
+      "description": "Compete in our weekly state science quiz challenge! Cash rewards and digital achievement certificates for top 3 students.",
+      "date": "2026-07-03T11:30:00.000Z"
+    }
+  ],
+  "enrollments": [
+    {
+      "enrollmentId": "enr-1",
+      "studentId": "std-1",
+      "courseId": "crs-math",
+      "date": "2026-07-01T08:00:00.000Z"
+    }
+  ],
+  "resources": [
+    {
+      "resourceId": "res-math1",
+      "courseId": "crs-math",
+      "title": "Algebra Identities & Coordinate Geometry Formulas",
+      "description": "A comprehensive formulas and identities quick reference guide for 9th and 10th standard algebraic expansions, coordinate planes, distance, and section equations.",
+      "type": "Cheat Sheet",
+      "fileSize": "1.2 MB",
+      "downloadUrl": "/api/resources/res-math1/download",
+      "addedBy": "Dr. Nakul",
+      "date": "2026-07-02T09:30:00.000Z"
+    },
+    {
+      "resourceId": "res-math2",
+      "courseId": "crs-math",
+      "title": "Linear Equations Solved Practice Worksheet",
+      "description": "Comprehensive practice worksheet containing 15 high-school linear equation questions, graphical step-by-step solutions, and exam-focused tips.",
+      "type": "Practice Paper",
+      "fileSize": "2.4 MB",
+      "downloadUrl": "/api/resources/res-math2/download",
+      "addedBy": "Dr. Nakul",
+      "date": "2026-07-03T14:15:00.000Z"
+    },
+    {
+      "resourceId": "res-sci1",
+      "courseId": "crs-sci",
+      "title": "Ray Diagrams Mastery Guide (Mirrors & Lenses)",
+      "description": "Step-by-step visual blueprints and guidelines for drawing image formation paths across convex, concave mirrors, and thin spherical lenses.",
+      "type": "Handout",
+      "fileSize": "3.1 MB",
+      "downloadUrl": "/api/resources/res-sci1/download",
+      "addedBy": "Dr. Meera",
+      "date": "2026-07-01T10:00:00.000Z"
+    },
+    {
+      "resourceId": "res-sci2",
+      "courseId": "crs-sci",
+      "title": "DIY Optics & Thermal physics Experiments Guide",
+      "description": "Hands-on project handbook demonstrating how to investigate laws of reflection, refraction, and thermal conductivity at home using simple, inexpensive village items.",
+      "type": "Reading Guide",
+      "fileSize": "1.8 MB",
+      "downloadUrl": "/api/resources/res-sci2/download",
+      "addedBy": "Dr. Meera",
+      "date": "2026-07-04T11:00:00.000Z"
+    },
+    {
+      "resourceId": "res-eng1",
+      "courseId": "crs-eng",
+      "title": "12 English Tenses Comprehensive Study Guide",
+      "description": "Full tense layout tables, timeline indicator illustrations, conjugations of active-passive verbs, and daily practice sentences with answers.",
+      "type": "Reading Guide",
+      "fileSize": "2.1 MB",
+      "downloadUrl": "/api/resources/res-eng1/download",
+      "addedBy": "Ms. Ananya Iyer",
+      "date": "2026-07-01T15:00:00.000Z"
+    },
+    {
+      "resourceId": "res-eng2",
+      "courseId": "crs-eng",
+      "title": "Everyday Spoken English Greetings & Phrases Booklet",
+      "description": "Practical dialogue modules covering bank visits, school interactions, marketplace conversations, and writing standard applications.",
+      "type": "Handout",
+      "fileSize": "1.1 MB",
+      "downloadUrl": "/api/resources/res-eng2/download",
+      "addedBy": "Ms. Ananya Iyer",
+      "date": "2026-07-04T09:30:00.000Z"
+    }
+  ],
+  "reviews": [
+    {
+      "reviewId": "rev-1",
+      "courseId": "crs-math",
+      "userId": "usr-s1",
+      "studentName": "Arjun",
+      "rating": 5,
+      "feedback": "This mathematics course has been incredibly helpful! The coordinates chapter visualized the concepts beautifully, making geometry so much easier to comprehend.",
+      "date": "2026-07-02T10:00:00.000Z"
+    },
+    {
+      "reviewId": "rev-2",
+      "courseId": "crs-math",
+      "userId": "usr-s5",
+      "studentName": "Harini",
+      "rating": 4,
+      "feedback": "Highly recommend this for foundational math. The practice worksheets are well structured, although I would love a few more exercises on quadratic equations!",
+      "date": "2026-07-03T11:20:00.000Z"
+    },
+    {
+      "reviewId": "rev-3",
+      "courseId": "crs-sci",
+      "userId": "usr-s5",
+      "studentName": "Harini",
+      "rating": 5,
+      "feedback": "Dr. Meera is the best physics teacher! The optical ray diagrams and DIY experiments on mirrors were extremely engaging. I tried reflection experiments at home.",
+      "date": "2026-07-04T09:15:00.000Z"
+    },
+    {
+      "reviewId": "rev-4",
+      "courseId": "crs-eng",
+      "userId": "usr-s1",
+      "studentName": "Arjun",
+      "rating": 5,
+      "feedback": "The greetings and spoken conversation practice really helped build my confidence. The simple grammar rules are taught with excellent village context.",
+      "date": "2026-07-04T16:30:00.000Z"
+    }
+  ],
+  "assignments": [
+    {
+      "assignmentId": "asg-1",
+      "courseId": "crs-math",
+      "courseTitle": "Foundational Algebra & Geometry",
+      "title": "Linear Equations & Distance Formula Practice",
+      "description": "Solve the 5 problems from Chapter 1. Show all your steps on how you calculated distance using the Coordinate Distance Formula. Write your final answers clearly.",
+      "dueDate": "2026-07-15T23:59:59.000Z",
+      "maxPoints": 100,
+      "addedByTeacherId": "tch-p1",
+      "addedByTeacherName": "Dr.Nakul",
+      "date": "2026-07-05T09:00:00.000Z"
+    },
+    {
+      "assignmentId": "asg-2",
+      "courseId": "crs-sci",
+      "courseTitle": "Introduction to Physics: Light & Heat",
+      "title": "Concave Mirror Ray Diagram Drawing",
+      "description": "Draw 3 ray diagrams for a concave mirror when the object is placed: 1) Beyond C, 2) At C, and 3) Between F and P. Write the nature, size, and position of the images. You can write your descriptions as text and submit or upload a mock drawing link.",
+      "dueDate": "2026-07-18T23:59:59.000Z",
+      "maxPoints": 50,
+      "addedByTeacherId": "tch-3",
+      "addedByTeacherName": "Dr.Meera",
+      "date": "2026-07-06T10:30:00.000Z"
+    },
+    {
+      "assignmentId": "asg-3",
+      "courseId": "crs-eng",
+      "courseTitle": "Spoken English & Functional Grammar",
+      "title": "Introduce Yourself in English Paragraph",
+      "description": "Write a paragraph of 100-150 words introducing yourself, your family, your village, and what you want to study in the future. Pay careful attention to simple present tenses and active verb configurations.",
+      "dueDate": "2026-07-12T23:59:59.000Z",
+      "maxPoints": 20,
+      "addedByTeacherId": "tch-1",
+      "addedByTeacherName": "Ms.Ananya Iyer",
+      "date": "2026-07-04T14:00:00.000Z"
+    }
+  ],
+  "submissions": [
+    {
+      "submissionId": "sub-1",
+      "assignmentId": "asg-3",
+      "assignmentTitle": "Introduce Yourself in English Paragraph",
+      "studentId": "std-1",
+      "studentName": "Arjun",
+      "courseId": "crs-eng",
+      "courseTitle": "Spoken English & Functional Grammar",
+      "submittedContent": "Hello Teacher! My name is Arjun. I live in Ramnagar village. I study in Grade 10 at Government Boys High School. My father is a farmer and my mother is a homemaker. I have one younger sister. I want to become a software engineer in the future because I like computers. Thank you!",
+      "submittedFileUrl": "",
+      "submittedAt": "2026-07-05T15:20:00.000Z",
+      "status": "GRADED",
+      "grade": "18/20",
+      "feedback": "Excellent work, Arjun! Your grammar is very good, and you used the simple present tense correctly. Keep practicing your spelling.",
+      "gradedBy": "Ms.Ananya Iyer",
+      "gradedAt": "2026-07-06T09:15:00.000Z"
+    }
+  ],
+  "bookmarks": [],
+  "comments": [
+    {
+      "commentId": "comm-1",
+      "courseId": "crs-math",
+      "userId": "usr-s1",
+      "userName": "Arjun",
+      "userRole": "STUDENT",
+      "text": "How can we find the length of the diagonal of a square if the side is 5cm?",
+      "date": "2026-07-05T10:00:00.000Z"
+    },
+    {
+      "commentId": "comm-2",
+      "courseId": "crs-math",
+      "userId": "usr-p1",
+      "userName": "Dr.Nakul",
+      "userRole": "TEACHER",
+      "text": "Excellent question, Arjun! You can use the Pythagorean Theorem. Since a square has right angles, the diagonal forms a right-angled triangle with the sides. Thus: Diagonal = side * √2 ≈ 5 * 1.414 = 7.07 cm.",
+      "date": "2026-07-05T11:15:00.000Z",
+      "parentId": "comm-1"
+    },
+    {
+      "commentId": "comm-3",
+      "courseId": "crs-eng",
+      "userId": "usr-s5",
+      "userName": "Harini",
+      "userRole": "STUDENT",
+      "text": "Teacher, what is the best way to practice speaking english naturally when we are at home in the village?",
+      "date": "2026-07-06T09:30:00.000Z"
+    },
+    {
+      "commentId": "comm-4",
+      "courseId": "crs-eng",
+      "userId": "usr-t1",
+      "userName": "Ms.Ananya Iyer",
+      "userRole": "TEACHER",
+      "text": "Greetings Harini! Try reading your textbooks aloud for 10 minutes daily. You can also form a small English Club with classmates to practice conversational greetings or describe simple objects in English.",
+      "date": "2026-07-06T10:05:00.000Z",
+      "parentId": "comm-3"
+    },
+    {
+      "commentId": "comm-5",
+      "courseId": "crs-sci",
+      "userId": "usr-s2",
+      "userName": "Kavin",
+      "userRole": "STUDENT",
+      "text": "Is the image formed by a plane mirror always virtual and erect?",
+      "date": "2026-07-06T14:20:00.000Z"
+    },
+    {
+      "commentId": "comm-6",
+      "courseId": "crs-sci",
+      "userId": "usr-t3",
+      "userName": "Dr.Meera",
+      "userRole": "TEACHER",
+      "text": "Yes, Kavin! Plane mirrors always form virtual, erect, and laterally inverted images of the same size as the object.",
+      "date": "2026-07-06T14:45:00.000Z",
+      "parentId": "comm-5"
+    }
+  ]
+}
